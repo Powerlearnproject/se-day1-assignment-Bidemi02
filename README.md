@@ -55,10 +55,10 @@ This includes fixing bugs, adding new features, and providing technical support 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
-Waterfall follows a strict, linear progression where each phase (e.g., planning, design, implementation) must be completed before moving to the next. There is little room for revisiting or modifying previous phases.Waterfall emphasizes thorough documentation at each stage. Every requirement, design specification, and test case is documented extensively before moving forward.
+Waterfall follows a strict, linear progression where each phase (e.g., planning, design, implementation) must be completed before moving to the next. There is little room for revisiting or modifying previous phases. Waterfall emphasizes thorough documentation at each stage. Every requirement, design specification, and test case is documented extensively before moving forward.
 Example: Building a bridge or constructing a building, where changes are difficult and costly to implement once construction has begun.
 
-Agile is flexible and adaptive, focusing on small, iterative cycles called sprints (usually 1-4 weeks). Each sprint produces a working version of the software that can be reviewed and improved upon.Agile relies on continuous communication and collaboration over extensive documentation. Documentation is still important, but it is often kept concise and is created as needed.
+Agile is flexible and adaptive, focusing on small, iterative cycles called sprints (usually 1-4 weeks). Each sprint produces a working version of the software that can be reviewed and improved upon. Agile relies on continuous communication and collaboration over extensive documentation. Documentation is still important, but it is often kept concise and is created as needed.
 Example: Developing a mobile app where user feedback and market trends can rapidly influence the product's direction.
 
 
@@ -76,11 +76,9 @@ Integrated Development Environments (IDEs): are comprehensive software applicati
 
  Version Control Systems (VCS) are tools that track changes to source code over time, allowing developers to collaborate effectively and manage different versions of their code. VCS can be centralized (e.g., GitLab, Bitbucket) or distributed (e.g., Git). VCS keeps a history of changes to code, allowing developers to revert to previous versions if necessary. Examples Git, Subversion (SVN) and Mercurial.
 
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 Software engineers often encounter a variety of challenges in their work. Here are some common ones and strategies to overcome them:
-
 1. Evolving Requirements:
 Challenge: Requirements can change or become unclear during the development process.
 Strategies:
